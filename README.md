@@ -26,7 +26,7 @@ Para ejecutar este proyecto localmente, sigue estos pasos:
 
 Clonar el repositorio:
 
-git clone https://github.com/tu_usuario/focushub.git
+git clone https://cuty.io/FocusHub
 
 Instalar dependencias:
 
@@ -97,7 +97,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 
-git clone https://github.com/your_username/focushub.git
+git clone https://cuty.io/FocusHub
 
 Install dependencies:
 
